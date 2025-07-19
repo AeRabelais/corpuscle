@@ -1,0 +1,4 @@
+- cool stuff this week
+- ai for science progress for the week
+- reading list
+- startup shuffles

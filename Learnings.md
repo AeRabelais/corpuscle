@@ -1,0 +1,2 @@
+- [Launchpad App Icon stuck in the middle of mac screen](https://apple.stackexchange.com/questions/221613/macos-app-icon-stuck-on-my-screen)
+- 
