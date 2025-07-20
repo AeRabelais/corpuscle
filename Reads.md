@@ -6,8 +6,8 @@
 - June 8 - June 15, 2025
 	- Articles
 		- Scaling @ Spotify with Tribes, Squads, Chapters & Guilds 🍴🐇 (Thread 0) ^e458c2
-		- [Spotify Doesn't Use the Spotify Model](https://www.agility11.com/blog/2020/6/22/spotify-doesnt-use-the-spotify-model) 🍴🐇 (Thread [[1 ]])
-		- [Failed Squad Goals: Spotify Doesn't Use the Spotify Model, and Neither Should You](https://www.jeremiahlee.com/posts/failed-squad-goals/#navel-gazing) 🍴🐇 (Thread [[1 ]])
+		- [Spotify Doesn't Use the Spotify Model](https://www.agility11.com/blog/2020/6/22/spotify-doesnt-use-the-spotify-model) 🍴🐇 ([[^e458c2 |Thread-1]])
+		- [Failed Squad Goals: Spotify Doesn't Use the Spotify Model, and Neither Should You](https://www.jeremiahlee.com/posts/failed-squad-goals/#navel-gazing) 🍴🐇 ([[^e458c2 |Thread-2]])
 - June 1 - June 7, 2025
 	- Books
 		- Punisher Noir 🥄🍟
